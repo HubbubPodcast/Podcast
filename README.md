@@ -1,7 +1,6 @@
 # Podcast
 
-https://hubbub.top
-中文播客汇集站
+[中文播客汇集站](https://hubbub.top "中文播客(Chinese Podcast)")
 
-https://es.hubbub.top 
-西班牙语播客汇集站
+[西班牙语播客汇集站](https://es.hubbub.top  "Podcast en español")
+
